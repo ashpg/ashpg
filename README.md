@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashpg, a 3rd year undergrad @BITS PILANI GOA 
+- 👋 Hi, I’m Ashmit, a 3rd year undergrad @BITS PILANI GOA 
 - 👀 I’m interested in solving problems which actually helps users in real life related to tech as well as finance
 - 🌱 I’m currently learning Machine learning, Finance and Data Structures
 - 📫 mail:ashmitgupta2004@gmail.com
